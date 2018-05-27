@@ -1,7 +1,7 @@
 //インクルード
 #include "ini_reader.h"
-#include "string_trim.h"
-#include "get_program_path.h"
+#include "../string_trim/string_trim.h"
+#include "../get_program_path/get_program_path.h"
 
 #include <fstream>
 #include <iostream>
